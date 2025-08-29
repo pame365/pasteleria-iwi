@@ -1,7 +1,8 @@
 integrantes 
-morante
-espinoza olivo 
-parrales
+Morante
+Espinoza Olivo 
+Parrales
+Acuña 
 # pasteleria-iwi
 Fecha: 18/julio/2025
 Integrantes: Parrales, Morante, Espinoza Olivo 
