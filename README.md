@@ -1,12 +1,8 @@
-integrantes 
-Morante
-Espinoza Olivo 
-Parrales
-Acuña 
-# pasteleria-iwi
+Pastelería iwi – Proyecto ABP
+
 Fecha: 18/julio/2025
-Integrantes: Parrales, Morante, Espinoza Olivo 
-Tema: Proyecto ABP
+Integrantes: Parrales, Morante, Espinoza Olivo
+Tema: Desarrollo de Base de Datos para Pastelería iwi
 
 Negocio:                                             Pastelería iwi
 
@@ -17,4 +13,4 @@ Dicho esto nuestras dos tablas principales las denominamos “clientes” y “p
 En primer lugar tenemos como campo de nuestra tabla “producto” la cual se desglosa en los siguientes subcampos; id_ producto (este campo identifica el producto), nombre, tipo_producto, sabor, tamaño, stock_actual(loa cantidad de disponibilidad de ese producto).
 La tabla “productos” está conectado con una tabla denominada “inventario” dentro de esta tabla se encuentran dos campos, la cuales son “ingredientes” y la otra es “recetas”. Dentro de ingredientes, podemos observar los campos que serían;  id_ingredientes, nombre, unidad, cantidad, disponible,  costo unitario. dentro de la recetas. Manejamos los siguientes campos; id_ receta, id_ producto, id_ ingredientes, cantidad_necesaria.
 Una de las tablas  principales es “cliente” la cuál cuenta con los siguientes subcampos; id_ clientes (único), nombre, teléfono, Gmail, fecha_registro. Esta tabla está conectada con pedidos las cual cuenta con los siguientes subcampos; id_pedido, id_cliente, fecha_pedido, estado_pedido,  total.
-[
+
